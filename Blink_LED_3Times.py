@@ -11,3 +11,4 @@ while counter < 3:
     GPIO.output(8, GPIO.Low)
     counter = counter + 1
 
+
